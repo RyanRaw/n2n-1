@@ -5,6 +5,8 @@ Unfortunately, compiling is also a technical job, and many people can't, so I've
 
 NOTE for n2n_v2.3 (https://github.com/lucktu/n2n6):
 
+2026-08-03: v2.3_7.2, update to v2.3_7.2_r287_ea2f439, supports supernode without IPv6
+
 2026-07-13: v2.3_6.5, update to v2.3_6.5_r256_261e420
 
 2026-06-27: v2.3_6.3, update to v2.3_6.3_7669b4b
